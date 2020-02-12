@@ -1,0 +1,11 @@
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.exe
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.deps.json
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.runtimeconfig.json
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.runtimeconfig.dev.json
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.dll
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\bin\Debug\netcoreapp3.1\Oblig 1 Modul 3.pdb
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\obj\Debug\netcoreapp3.1\Oblig 1 Modul 3.csprojAssemblyReference.cache
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\obj\Debug\netcoreapp3.1\Oblig 1 Modul 3.AssemblyInfoInputs.cache
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\obj\Debug\netcoreapp3.1\Oblig 1 Modul 3.AssemblyInfo.cs
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\obj\Debug\netcoreapp3.1\Oblig 1 Modul 3.dll
+C:\Users\GET Academy Student\source\repos\Oblig 1 Modul 3\obj\Debug\netcoreapp3.1\Oblig 1 Modul 3.pdb
